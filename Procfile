@@ -1,0 +1,1 @@
+web: gunicorn jt-first-runnable-project.wsgi
